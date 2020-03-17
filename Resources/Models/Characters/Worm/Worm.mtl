@@ -1,0 +1,46 @@
+# Blender3D MTL File: Worm.blend
+# Material Count: 4
+newmtl RefRep.223_Hands.png__Hands.png
+Ns 90.196078
+Ka 0.000000 0.000000 0.000000
+Kd 0.409600 0.409600 0.409600
+Ks 0.125000 0.125000 0.125000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/Hands.png
+
+
+newmtl RefRep.225_Eyes.png_E_Eyes.png
+Ns 90.196078
+Ka 0.000000 0.000000 0.000000
+Kd 0.409600 0.409600 0.409600
+Ks 0.125000 0.125000 0.125000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/Eyes.png
+
+
+newmtl RefRep.221_Body.png_B_Body.png
+Ns 90.196078
+Ka 0.000000 0.000000 0.000000
+Kd 0.409600 0.409600 0.409600
+Ks 0.125000 0.125000 0.125000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/Body.png
+
+
+newmtl RefRep.227_Teeth.png__Teeth.png
+Ns 90.196078
+Ka 0.000000 0.000000 0.000000
+Kd 0.409600 0.409600 0.409600
+Ks 0.125000 0.125000 0.125000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/Teeth.png
+
+
